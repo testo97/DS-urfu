@@ -10,7 +10,7 @@
 
 ## Upstream dependencies
 
-- Pack (когда появится) — доменное знание
+- `Pack-urfu` (`~/Github/Pack-urfu`) — source-of-truth доменного знания
 
 ## Downstream outputs
 
